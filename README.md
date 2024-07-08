@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+    <h1 align="center">Hello, I'm Enrique</h1>
+</div>
 
 <!--
 **enrilpz04/enrilpz04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
