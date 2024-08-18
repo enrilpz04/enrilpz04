@@ -10,40 +10,38 @@ My journey in tech has been driven by a passion for learning and a strong curios
 # 💻 Tech Knowledge
 ## 🚀 Programming Languages
 
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td align="center" style="margin: 0 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
-      <br/>
-      <span>Java</span>
-    </td>
-    <td align="center" style="margin: 0 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/>
-      <br/>
-      <span>C#</span>
-    </td>
-    <td align="center" style="margin: 0 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-      <br/>
-      <span>Python</span>
-    </td>
-    <td align="center" style="margin: 0 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" height="50"/>
-      <br/>
-      <span>Kotlin</span>
-    </td>
-    <td align="center" style="margin: 0 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
-      <br/>
-      <span>TypeScript</span>
-    </td>
-    <td align="center" style="margin: 0 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-      <br/>
-      <span>JavaScript</span>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <span align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
+        <br/>
+        Java
+    </span>
+    <span align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/>
+        <br/>
+        C#
+    </span>
+    <span align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+        <br/>
+        Python
+    </span>
+    <span align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" height="50"/>
+        <br/>
+        Kotlin
+    </span>
+    <span align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
+        <br/>
+        TypeScript
+    </span>
+    <span align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+        <br/>
+        JavaScript
+    </span>
+</div>
 
 
 
