@@ -12,7 +12,7 @@ My journey in tech has been driven by a passion for learning and a strong curios
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" margin-right="10px" margin-left="10px">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
       <br/>
       <span>Java</span>
