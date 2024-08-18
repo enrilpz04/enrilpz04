@@ -10,7 +10,7 @@ My journey in tech has been driven by a passion for learning and a strong curios
 # 💻 Tech Knowledge
 ## 🚀 Programming Languages
 
-<div style="display: flex; flex-direction: row; justify-content: space-around;">
+<div style="display: flex; flex-direction: row">
     <div align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
         <br/>
